@@ -241,12 +241,12 @@ provide a sample or explain how reviewers can access the data.
 ### Campaign Overview
 
 ![Campaign Overview
-Dashboard](power-bi/dashboard-screenshots/campaign-overview.png)
+Dashboard](campaign-overview.png)
 
 ### Audience & Creative Insights
 
 ![Audience and Creative Insights
-Dashboard](power-bi/dashboard-screenshots/audience-creative-insights.png)
+Dashboard](audience-creative-insights.png)
 
 ## How to Reproduce the SQL Analysis
 
