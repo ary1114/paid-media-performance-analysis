@@ -236,7 +236,7 @@ provide a sample or explain how reviewers can access the data.
 
 ## Dashboard Preview
 
-*Add your Power BI dashboard screenshots here.*
+
 
 ### Campaign Overview
 
