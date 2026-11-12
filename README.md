@@ -211,28 +211,6 @@ Based on the patterns in this synthetic dataset:
 -   Awareness campaigns should not be judged by purchase ROAS alone.
 -   Observational segment comparisons do not establish causation.
 
-## Project Files
-
-Suggested GitHub repository structure:
-
-``` text
-paid-media-performance-analysis/
-├── README.md
-├── data/
-│   └── mridha_paid_media_portfolio_dataset(2).xlsx
-├── sql/
-│   └── paid_media_performance_analysis.sql
-├── power-bi/
-│   └── dashboard-screenshots/
-│       ├── campaign-overview.png
-│       └── audience-creative-insights.png
-└── reports/
-    └── paid-media-performance-analysis-report.pdf
-```
-
-Add the Power BI screenshots and final report to the repository before
-publishing. If you do not want to publish the full source workbook,
-provide a sample or explain how reviewers can access the data.
 
 ## Dashboard Preview
 
